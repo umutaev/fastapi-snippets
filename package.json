@@ -1,8 +1,8 @@
 {
     "name": "fastapi-snippets",
     "displayName": "fastapi-snippets",
-    "description": "FastAPI snippets for VsCode. Inspired by Flask Snippets",
-    "publisher": "damildrizzy",
+    "description": "FastAPI snippets for VsCode. Inspired by Flask Snippets. Modified by umutaev",
+    "publisher": "umutaev",
     "icon": "images/fastapi.png",
     "version": "0.0.2",
     "engines": {
@@ -18,7 +18,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/damildrizzy/fastapi-snippets.git"
+        "url": "https://github.com/umutaev/fastapi-snippets.git"
     },
     "contributes": {
         "snippets": [
